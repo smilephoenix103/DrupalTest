@@ -1,0 +1,7 @@
+first_module.content:
+  path: '/first/page'
+  defaults:
+    _controller: '\Drupal\first_module\Controller\FirstController::firstMethod'
+    _title: 'Welcome to our first Drupal 8 custom module.'
+  requirements:
+    _permission: 'access content'

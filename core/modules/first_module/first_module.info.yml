@@ -1,0 +1,6 @@
+name: 'First Module'
+type: module
+description: 'First Custom Module'
+
+version: '9.4.8'
+project: 'drupal'
