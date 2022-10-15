@@ -2,13 +2,27 @@
 
 ## Implement
 Setting up Database.
+
 In Database folder, there is a drupal.sql database file.
+
 Import to mysql
+
 DB name: drupal
 
+
 credentials:
+
 name:Kenji
+
 Password: 123456
+
+
+
+
+https://user-images.githubusercontent.com/104746557/195979442-8cdf7a2c-605e-4e2a-be63-487e67f6fd3d.mp4
+
+
+
 
 Drupal is an open source content management platform supporting a variety of
 websites ranging from personal weblogs to large community-driven websites. For
