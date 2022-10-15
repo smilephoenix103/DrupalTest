@@ -1,5 +1,15 @@
 <img alt="Drupal Logo" src="https://www.drupal.org/files/Wordmark_blue_RGB.png" height="60px">
 
+## Implement
+Setting up Database.
+In Database folder, there is a drupal.sql database file.
+Import to mysql
+DB name: drupal
+
+credentials:
+name:Kenji
+Password: 123456
+
 Drupal is an open source content management platform supporting a variety of
 websites ranging from personal weblogs to large community-driven websites. For
 more information, visit the Drupal website, [Drupal.org][Drupal.org], and join
