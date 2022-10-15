@@ -1,0 +1,9 @@
+function hello_world_theme() {
+  return [
+    'hello_block' => [
+      'variables' => [
+        'data' => [],
+      ],
+    ],
+  ];
+}
