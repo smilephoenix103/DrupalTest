@@ -2,6 +2,6 @@ first_module.content:
   path: '/first/page'
   defaults:
     _controller: '\Drupal\first_module\Controller\FirstController::firstMethod'
-    _title: 'Welcome to our first Drupal 8 custom module.'
+    _title: ' Happy Realtime Weather!!!'
   requirements:
     _permission: 'access content'

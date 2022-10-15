@@ -1,0 +1,6 @@
+name: 'Today Weather'
+type: module
+description: 'Demonstrates the Drupal Form API with ajax submit.'
+
+version: '9.4.8'
+project: 'drupal'
